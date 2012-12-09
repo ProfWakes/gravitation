@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1355054230 source:/home/kaashif/Git/gravitation/C/main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+
